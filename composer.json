@@ -13,8 +13,8 @@
         "laravel/passport": "^4.0",
         "laravel/tinker": "~1.0",
         "nanigans/single-table-inheritance": "0.8.*",
-        "owen-it/laravel-auditing": "^5.0",
-        "silber/bouncer": "v1.0.0-beta.5"
+        "silber/bouncer": "v1.0.0-beta.5",
+        "spatie/laravel-activitylog": "^2.3"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
