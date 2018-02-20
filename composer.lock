@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "8c3b425f9c4b52682e608417ea2e8799",
+    "content-hash": "39734eabf899472bb253f36b765ddd30",
     "packages": [
         {
             "name": "anahkiasen/underscore-php",
@@ -58,16 +58,16 @@
         },
         {
             "name": "barryvdh/laravel-translation-manager",
-            "version": "v0.4.2",
+            "version": "v0.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/barryvdh/laravel-translation-manager.git",
-                "reference": "d8152a9db706c1d7cff05d94dd98d38e35cc606c"
+                "reference": "c9939e6199e92d36301143f37a735fcf36d022f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/barryvdh/laravel-translation-manager/zipball/d8152a9db706c1d7cff05d94dd98d38e35cc606c",
-                "reference": "d8152a9db706c1d7cff05d94dd98d38e35cc606c",
+                "url": "https://api.github.com/repos/barryvdh/laravel-translation-manager/zipball/c9939e6199e92d36301143f37a735fcf36d022f5",
+                "reference": "c9939e6199e92d36301143f37a735fcf36d022f5",
                 "shasum": ""
             },
             "require": {
@@ -83,7 +83,7 @@
                 },
                 "laravel": {
                     "providers": [
-                        "Barryvdh\\TranslationManager\\ManagerServiceProvider"
+                        "Barryvdh\\TranslationManager\\TranslationServiceProvider"
                     ]
                 }
             },
@@ -108,7 +108,7 @@
                 "translations",
                 "translator"
             ],
-            "time": "2017-12-21T12:35:58+00:00"
+            "time": "2017-09-02T16:02:44+00:00"
         },
         {
             "name": "defuse/php-encryption",
